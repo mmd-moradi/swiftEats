@@ -1,6 +1,6 @@
 # SwiftEats-App-React-Native
 
-![Group 607readmeImage (1)](https://github.com/mmd-moradi/swiftEats/assets/110211422/79701d44-d5a5-4c60-912a-d7045295aaec)
+![Group 607readmeImage](https://github.com/mmd-moradi/swiftEats/assets/110211422/6cc14a04-4858-4d74-8410-061d3169a31f)
 
 ## Get Started
 
