@@ -1,6 +1,16 @@
-# SwiftEats-App-React-Native
+# SwiftEats - Food Delivery App 🍔📱
 
 ![Group 607readmeImage](https://github.com/mmd-moradi/swiftEats/assets/110211422/6cc14a04-4858-4d74-8410-061d3169a31f)
+
+
+## Key Features
+
+- **Tech Stack:** Utilized React Native/Expo for a smooth cross-platform app experience.
+- **Design:** Styled with TailwindCSS (NativeWind) for a modern and responsive UI.
+- **Navigation:** Easy-to-use with React Native Navigation for a seamless user journey.
+- **State Management:** Efficiently managed states using Redux for a scalable and maintainable codebase.
+- **Content Management:** Organized content seamlessly with Sanity for flexibility.
+- **Maps Integration:** Real-time location tracking and intelligent route planning with React Native Maps.
 
 ## Get Started
 
